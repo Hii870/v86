@@ -51,3 +51,5 @@ var TSC_RATE = 1 * 1000 * 1000;
 
 /** @const */
 var APIC_TIMER_FREQ = TSC_RATE;
+
+var ENABLE_ACPI = true
